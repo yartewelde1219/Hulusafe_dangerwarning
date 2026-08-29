@@ -1,0 +1,16 @@
+[
+  {"region_name": "Addis Ababa", "latitude": 9.03, "longitude": 38.74, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Afar", "latitude": 11.8, "longitude": 41.0, "danger_type": "flood", "danger_level": "high", "confidence": 0.88},
+  {"region_name": "Amhara", "latitude": 11.5, "longitude": 38.5, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Benishangul-Gumuz", "latitude": 10.8, "longitude": 35.5, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Central Ethiopia", "latitude": 7.8, "longitude": 38.0, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Dire Dawa", "latitude": 9.6, "longitude": 41.87, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Gambela", "latitude": 7.9, "longitude": 34.4, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Harari", "latitude": 9.31, "longitude": 42.12, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Oromia", "latitude": 7.99, "longitude": 39.38, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Sidama", "latitude": 6.8, "longitude": 38.4, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Somali", "latitude": 6.66, "longitude": 43.79, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "South Ethiopia", "latitude": 6.2, "longitude": 37.6, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "South West Ethiopia", "latitude": 7.2, "longitude": 35.5, "danger_type": "none", "danger_level": "none", "confidence": 0.0},
+  {"region_name": "Tigray", "latitude": 13.5, "longitude": 39.5, "danger_type": "none", "danger_level": "none", "confidence": 0.0}
+]
