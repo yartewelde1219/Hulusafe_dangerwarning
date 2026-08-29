@@ -1,0 +1,27 @@
+name: hulusafe
+description: AI-powered Amharic news danger-warning app for Ethiopia.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
+  http: ^1.2.2
+  geolocator: ^13.0.2
+  permission_handler: ^11.3.1
+  intl: ^0.20.2
+  google_maps_flutter: ^2.10.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
