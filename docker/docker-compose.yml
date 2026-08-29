@@ -1,0 +1,27 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: hulusafe
+      POSTGRES_USER: hulusafe
+      POSTGRES_PASSWORD: hulusafe
+    ports:
+      - "5432:5432"
+    volumes:
+      - hulusafe_pg:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.backend
+    environment:
+      DATABASE_URL: postgresql+psycopg2://hulusafe:hulusafe@db:5432/hulusafe
+      MAX_ALERT_EVENT_AGE_DAYS: 14
+      DEFAULT_ALERT_RADIUS_KM: 100
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+volumes:
+  hulusafe_pg:

@@ -1,0 +1,33 @@
+{"text": "በአዋሽ አካባቢ የጎርፍ አደጋ ተከስቷል እና 12 ሰዎች ሞተዋል፤ 350 ሰዎች ተፈናቅለዋል።", "label": "flood", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአፋር ክልል በሰመራ ዙሪያ በጣለው ከባድ ዝናብ ምክንያት የወንዝ ሙላት ተከስቶ በርካታ መኖሪያ ቤቶች ፈርሰዋል።", "label": "flood", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በደቡብ ጎንደር በጣለው ከባድ ዝናብ የጎርፍ አደጋ ደርሶ የሰብል ጉዳት አጋጥሟል።", "label": "flood", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአዋሽ አካባቢ ምንም ዓይነት የጎርፍ አደጋ የለም፤ ወሬው የተሳሳተ ነው።", "label": "normal", "danger": false, "historical": false, "negated": true, "hypothetical": false}
+{"text": "በሰመራ የጎርፍ አደጋ አልተከሰተም፤ የውሃው መጠን መደበኛ ነው።", "label": "normal", "danger": false, "historical": false, "negated": true, "hypothetical": false}
+{"text": "ከሁለት ዓመት በፊት በአካባቢው የጎርፍ አደጋ ተከስቶ እንደነበር ይታወሳል።", "label": "normal", "danger": false, "historical": true, "negated": false, "hypothetical": false}
+{"text": "በአዲስ አበባ መርካቶ ገበያ ውስጥ ትልቅ የእሳት አደጋ ተነስቶ 5 ሱቆች ተቃጥለዋል፤ 2 ሰዎች ቆሰሉ።", "label": "fire", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በሐዋሳ ከተማ በደረሰ የድንገተኛ እሳት ቃጠሎ በንብረት ላይ ከፍተኛ ጉዳት ደረሰ።", "label": "fire", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በደን ቃጠሎ ምክንያት በባሌ ዞን በርካታ ሄክታር ደን ወድሟል።", "label": "fire", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በመርካቶ አካባቢ የእሳት አደጋ የለም፤ ጭሱ ከቆሻሻ ማቃጠል የመጣ ነው።", "label": "normal", "danger": false, "historical": false, "negated": true, "hypothetical": false}
+{"text": "ባለፈው ዓመት የተነሳው የደን እሳት ሙሉ በሙሉ በቁጥጥር ስር ውሏል።", "label": "normal", "danger": false, "historical": true, "negated": false, "hypothetical": false}
+{"text": "በኦሮሚያ ክልል ምዕራብ ወለጋ በታጣቂዎች እና በመንግስት ኃይሎች መካከል ከባድ ውጊያ እና ግጭት ተቀስቅሷል።", "label": "conflict", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአማራ ክልል በደብረ ማርቆስ አካባቢ በታጣቂ ቡድኖች ጥቃት 4 ሰዎች ተገደሉ፤ 10 ሰዎች ቆሰሉ።", "label": "conflict", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በድንበር አካባቢ የታጠቁ ኃይሎች ባደረሱት ጥቃት 100 ሰዎች ተፈናቅለዋል።", "label": "conflict", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአካባቢው ምንም ዓይነት የጸጥታ ችግር ወይም ግጭት የለም፤ ሰላም ሰፍኗል።", "label": "normal", "danger": false, "historical": false, "negated": true, "hypothetical": false}
+{"text": "ከአምስት ዓመታት በፊት በነበረው ጦርነት በርካታ መሰረተ ልማቶች ወድመው ነበር።", "label": "normal", "danger": false, "historical": true, "negated": false, "hypothetical": false}
+{"text": "በደቡብ ኢትዮጵያ በጎፋ ዞን በተከሰተ ከባድ የመሬት መንሸራተት አደጋ 20 ሰዎች ሞተዋል፤ በርካቶች ተቀብረዋል።", "label": "landslide", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በተራራማው አካባቢ በደረሰ የመሬት ናዳ ምክንያት ዋናው መንገድ ተዘግቷል።", "label": "landslide", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በሶማሌ ክልል በጎዴ ዞን በተከሰተ ከባድ ድርቅ እና የዝናብ እጥረት ምክንያት ከብቶች እየሞቱ ነው።", "label": "drought", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በቦረና ዞን ለተከታታይ ወራት ዝናብ ባለመጣሉ ድርቅ ተከስቶ የምግብ እርዳታ ያስፈልጋል።", "label": "drought", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በስምጥ ሸለቆ አካባቢ በሬክተር ስኬል 4.5 የተመዘገበ የመሬት መንቀጥቀጥ ተከስቷል።", "label": "earthquake", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአፋር ክልል ርዕደ መሬት ተከስቶ ህንፃዎች ተንቀጥቅጠዋል።", "label": "earthquake", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በድሬዳዋ ከተማ ከባድ አውሎ ንፋስ እና የበረዶ ዝናብ ጥሎ የኤሌክትሪክ መስመሮችን አቋርጧል።", "label": "extreme_weather", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በደብረ ብርሃን አካባቢ ከባድ ውርጭ እና የበረዶ ማዕበል አጋጥሟል።", "label": "extreme_weather", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአዲስ አበባ ጅማ መንገድ ላይ በተከሰተ የትራፊክ አደጋ 6 ሰዎች ሞተዋል፤ 15 ሰዎች ቆሰሉ።", "label": "other", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በጣና ሐይቅ ላይ የጀልባ መስመጥ አደጋ ደርሶ 3 ሰዎች የጠፉ ሲሆን ፍለጋው ቀጥሏል።", "label": "other", "danger": true, "historical": false, "negated": false, "hypothetical": false}
+{"text": "የኢትዮጵያ ብሔራዊ ቡድን ትናንት ባደረገው ጨዋታ አሸናፊ ሆኗል።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": false}
+{"text": "የንግድ እና ቀጣናዊ ትስስር ሚኒስቴር አዲስ የንግድ መመሪያ ይፋ አደረገ።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": false}
+{"text": "በአዲስ አበባ አዳዲስ የመንገድ ግንባታ ፕሮጀክቶች ተመረቁ።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": false}
+{"text": "የአየር ሁኔታ ትንበያው ዛሬ ዝናብ እንደማይኖር እና ሰማዩ ግልጽ እንደሚሆን ያመለክታል።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": false}
+{"text": "ዝናቡ በዚህ ሁኔታ ከቀጠለ የጎርፍ አደጋ ሊከሰት ይችላል ተብሎ ተሰግቷል።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": true}
+{"text": "ድርቁ ከተከሰተ የእርዳታ አቅርቦት ሊያስፈልግ ይችላል።", "label": "normal", "danger": false, "historical": false, "negated": false, "hypothetical": true}
+
