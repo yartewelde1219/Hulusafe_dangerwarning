@@ -1,4 +1,4 @@
-# HuluSafe — AI-Powered Amharic Danger Warning Application
+# HuluSafe — AIL-Powered Amharic Danger Warning Application
 
 **HuluSafe** is an AI-powered danger-warning system designed to monitor credible Amharic-language news sources and deliver location-aware warnings to users in Ethiopia. The system analyzes incoming articles, detects danger events via Amharic NLP & Naive Bayes, extracts key facts (type, location, time, casualties, displacement, damage) without fabricating missing values, tracks regional danger progression, and sends warnings when an active, sufficiently confident event occurs approximately **within 100 km** of the user and **not older than 14 days**.
 
