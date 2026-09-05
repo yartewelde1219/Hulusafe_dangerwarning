@@ -1,4 +1,4 @@
-# HuluSafe — AI-Powered Amharic Danger Warning Application
+# HuluSafe — AIL-Powered Amharic Danger Warning Application
 
 **HuluSafe** is an AI-powered danger-warning system designed to monitor credible Amharic-language news sources and deliver location-aware warnings to users in Ethiopia. The system analyzes incoming articles, detects danger events via Amharic NLP & Naive Bayes, extracts key facts (type, location, time, casualties, displacement, damage) without fabricating missing values, tracks regional danger progression, and sends warnings when an active, sufficiently confident event occurs approximately **within 100 km** of the user and **not older than 14 days**.
 
@@ -135,6 +135,21 @@ flutter run
 
 ```bash
 docker compose -f docker/docker-compose.yml up --build
+```
+
+### 4. Deploy the Backend to Render
+
+The repository includes `render.yaml` at the repository root. In Render, create a
+Blueprint from this repository and select the branch containing that file. It sets
+the service root directory to `backend`, installs `backend/requirements.txt`,
+starts `app.main:app`, and checks `/health`.
+
+Set `GEMINI_API_KEY` in Render's environment settings. Never commit the key or put
+it in the Flutter build. After deployment, use the Render HTTPS URL as the APK API
+base URL:
+
+```bash
+flutter build apk --release --dart-define=API_BASE_URL=https://your-service.onrender.com
 ```
 
 ---

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+
+# Flutter / Dart generated files
+.dart_tool/
+build/
+
+# Gradle
+.gradle/
+**/.gradle/
+
+# Local Android configuration
+frontend/android/local.properties
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
