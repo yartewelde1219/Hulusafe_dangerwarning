@@ -137,6 +137,21 @@ flutter run
 docker compose -f docker/docker-compose.yml up --build
 ```
 
+### 4. Deploy the Backend to Render
+
+The repository includes `render.yaml` at the repository root. In Render, create a
+Blueprint from this repository and select the branch containing that file. It sets
+the service root directory to `backend`, installs `backend/requirements.txt`,
+starts `app.main:app`, and checks `/health`.
+
+Set `GEMINI_API_KEY` in Render's environment settings. Never commit the key or put
+it in the Flutter build. After deployment, use the Render HTTPS URL as the APK API
+base URL:
+
+```bash
+flutter build apk --release --dart-define=API_BASE_URL=https://your-service.onrender.com
+```
+
 ---
 
 ## Running Tests & AI Evaluation
